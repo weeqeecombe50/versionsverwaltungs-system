@@ -8,7 +8,7 @@ Erstellen Sie einen Fork des Projekts und machen Sie Ihre Änderungen in Ihrem e
 ## Erstellen Sie einen Pull-Request
 Sobald Sie Ihre Änderungen vorgenommen haben, erstellen Sie einen Pull-Request, damit wir Ihre Vorschläge überprüfen können.
 
-## Probleme melden
-Wenn Sie Fehler finden oder Vorschläge zur Verbesserung haben, können Sie diese im Issues-Bereich des Repositories melden.
+## Fehler melden
+Wenn Sie Fehler finden oder Verbesserungsvorschläge haben, können Sie diese im Issues-Bereich des Repositories melden.
 
 Vielen Dank für Ihren Beitrag!

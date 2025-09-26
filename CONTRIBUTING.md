@@ -11,4 +11,7 @@ Sobald Sie Ihre Änderungen vorgenommen haben, erstellen Sie einen Pull-Request,
 ## Fehler melden
 Wenn Sie Fehler finden oder Verbesserungsvorschläge haben, können Sie diese im Issues-Bereich des Repositories melden.
 
+## Hinweise zur Code-Qualität
+Bitte stellen Sie sicher, dass Ihr Code klar und gut dokumentiert ist, um die Überprüfungen zu erleichtern.
+
 Vielen Dank für Ihren Beitrag!

@@ -1,7 +1,7 @@
 {
   "name": "versionsverwaltungs-system",
   "version": "1.0.0",
-  "description": "Ein benutzerfreundliches Tool zur Verwaltung von Projekten und deren Versionen in der Softwareentwicklung.",
+  "description": "Ein benutzerfreundliches Tool zur Verwaltung von Softwareprojekten und deren Versionen.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",

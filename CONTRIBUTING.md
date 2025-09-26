@@ -1,6 +1,6 @@
 # Mitwirken
 
-Danke, dass Sie sich für die Mitwirkung an Versionsverwaltungs-System interessieren! Hier sind einige Möglichkeiten, wie Sie beitragen können:
+Danke, dass Sie sich für die Mitwirkung an Versionsverwaltungssystemen interessieren! Hier sind einige Möglichkeiten, wie Sie beitragen können:
 
 ## Forken Sie das Repository
 Erstellen Sie einen Fork des Projekts und machen Sie Ihre Änderungen in Ihrem eigenen Repository.

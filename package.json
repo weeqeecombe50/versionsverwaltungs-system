@@ -1,6 +1,6 @@
 {
   "name": "versionsverwaltungs-system",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tool zur Verwaltung von Softwareprojekten und deren Versionen.",
   "main": "index.js",
   "scripts": {

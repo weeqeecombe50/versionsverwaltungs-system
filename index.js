@@ -3,7 +3,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.get('/', (req, res) => {
-  res.send('Willkommen bei Versionsverwaltungs-System!');
+  res.send('Willkommen beim Versionsverwaltungssystem!');
 });
 
 app.listen(PORT, () => {
